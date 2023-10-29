@@ -5,5 +5,5 @@
 
 
 - 📫 How to reach me: doru7u@gmail.com or dm on twitter/𝕏.
-- Making OSS great again
+- Making OSS great again.
 
