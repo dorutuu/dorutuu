@@ -6,7 +6,4 @@
 
 - 📫 How to reach me: doru7u@gmail.com or dm on twitter/𝕏.
 - Making. that's all. just making
-- Damn
-- Dayum
-- For the streaks, don't judge me
 
