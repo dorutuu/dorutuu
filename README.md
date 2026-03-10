@@ -6,3 +6,7 @@
 
 - 📫 How to reach me: doru7u@gmail.com or dm on 𝕏.
 
+## Projects: 
+
+[Dentor](https://dentor.ro)
+[ryzen]
