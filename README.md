@@ -9,4 +9,4 @@
 ## Projects: 
 
 [Dentor](https://dentor.ro)
-[ryzen]
+[ryzen](https://github.com/dorutuu/ryzen)
