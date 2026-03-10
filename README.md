@@ -10,3 +10,4 @@
 
 - [Dentor](https://dentor.ro) - Full platform for dentists 
 - [ryzen](https://github.com/dorutuu/ryzen) - Tilling Window Manager inspired by i3 and Aerospace
+- [nala](https://github.com/dorutuu/nala) - OpenSource Slack Alternative
