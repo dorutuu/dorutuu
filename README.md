@@ -8,5 +8,5 @@
 
 ## Projects: 
 
-[Dentor](https://dentor.ro)
-[ryzen](https://github.com/dorutuu/ryzen)
+- [Dentor](https://dentor.ro) - Full platform for dentists 
+- [ryzen](https://github.com/dorutuu/ryzen) - Tilling Window Manager inspired by i3 and Aerospace
