@@ -4,7 +4,7 @@
 [𝕏 - dorutu_](https://x.com/dorutu_) 
 
 
-- 📫 How to reach me: doru7u@gmail.com or dm on 𝕏.
+- 📫 How to reach me: dorubota123@gmail.com or dm on 𝕏.
 
 ## Projects: 
 
