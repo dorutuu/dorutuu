@@ -1,6 +1,3 @@
-### actively making jokes here
-
-↳
 [𝕏 - dorutu_](https://x.com/dorutu_) 
 
 
